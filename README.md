@@ -10,7 +10,7 @@ crocheting, weightlifting, and exploring new places to eat.
 
 <hr style="border:2px solid gray">
 
-### Skills
+## Skills
 <code style="color : Yellow"> Languages:</code>
 <!-- Python, Java, C++, Common Lisp (Proficient); JS, Prolog, R, Assembly (Intermediate) -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226051.png?f=webp&w=256"/>
