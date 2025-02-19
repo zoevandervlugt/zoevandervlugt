@@ -28,7 +28,7 @@ crocheting, weightlifting, and exploring new places to eat.
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://pngimg.com/d/mysql_PNG23.png"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png"/>
 <img align="left" alt="LangChainP" width="30px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/v2/D4D12AQF8MwWNbgUZ_g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1697534805076?e=2147483647&v=beta&t=oidQ7KQtMb1CVUj-mRzfSaKSFlAHdvzu4z0FZ1VsU10"/>
 <br/><br/>
