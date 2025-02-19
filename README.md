@@ -10,6 +10,10 @@ crocheting, weightlifting, and exploring new places to eat.
 
 <hr style="border:2px solid gray">
 
+<!-- ![Zoe's Github Stats](https://github-readme-stats.vercel.app/api?username=zoevandervlugt&show_icons=true&theme=merko) -->
+
+![Zoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoevandervlugt&layout=compact)
+
 ## Skills
 <code style="color : Yellow"> Languages:</code>
 <!-- Python, Java, C++, Common Lisp (Proficient); JS, Prolog, R, Assembly (Intermediate) -->
