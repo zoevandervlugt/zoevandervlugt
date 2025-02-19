@@ -47,6 +47,8 @@ crocheting, weightlifting, and exploring new places to eat.
 🎀 [SOAR Professional Development Conference](https://www.southwestern.edu/soar/) Participant → Mentor \
 🎀 [Theta Lambda Chapter, Alpha Xi Delta](http://southwestern.alphaxidelta.org/index) Initiate → Finance VP
 
+<h2> <a href="https://github.com/zoevandervlugt/zoevandervlugt/blob/main/Resume.pdf">Resume</a> </h2>
+
 <!--
 **zoevandervlugt/zoevandervlugt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
