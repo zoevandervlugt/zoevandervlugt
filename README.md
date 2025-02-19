@@ -4,7 +4,7 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82eDZzZWZrcmZrZ3VwaDUwNndvZ2Fwd3RnMWU3NXU2a3UzYW1pOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250" height="250" />
 
-I'm a full-time senior undergraduate student currently working on my senior software engineering 
+I'm a full-time undergraduate student currently working on my senior software engineering 
 capstone: Automated Inventory Projection in a Small-Scale Vineyard. In my free time I enjoy 
 crocheting, weightlifting, and exploring new places to eat.
 
