@@ -39,6 +39,7 @@ crocheting, weightlifting, and exploring new places to eat.
 
 <code style="color : Yellow"> Tools:</code>
 <!-- GitHub, VS Code, Cloudflare Workers AI, Slack, Google Colab -->
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-linux-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2944967.png"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <img align="left" alt="Cloudflare Workers AI" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Cloudflare-Workers.svg"/>
