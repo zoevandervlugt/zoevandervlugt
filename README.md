@@ -10,6 +10,10 @@ crocheting, weightlifting, and exploring new places to eat.
 
 <hr style="border:2px solid gray">
 
+<!-- ![Zoe's Github Stats](https://github-readme-stats.vercel.app/api?username=zoevandervlugt&show_icons=true&theme=merko) -->
+
+![Zoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoevandervlugt&layout=compact)
+
 ## Skills
 <code style="color : Yellow"> Languages:</code>
 <!-- Python, Java, C++, Common Lisp (Proficient); JS, Prolog, R, Assembly (Intermediate) -->
@@ -47,7 +51,12 @@ crocheting, weightlifting, and exploring new places to eat.
 🎀 [SOAR Professional Development Conference](https://www.southwestern.edu/soar/) Participant → Mentor \
 🎀 [Theta Lambda Chapter, Alpha Xi Delta](http://southwestern.alphaxidelta.org/index) Initiate → Finance VP
 
-<h2> <a href="https://github.com/zoevandervlugt/zoevandervlugt/blob/main/Resume.pdf">Resume</a> </h2>
+<h2> <a href="https://github.com/zoevandervlugt/zoevandervlugt/blob/main/ZoeVanDerVlugt-Resume.pdf">Resume</a> </h2>
+
+### Future Ventures
+- Learn Docker and [explore related projects](https://github.com/veggiemonk/awesome-docker)
+- Transfer [Kattis](https://open.kattis.com/) problems I've solved to my profile here
+- Build a personal website & explore fun designs!
 
 <!--
 **zoevandervlugt/zoevandervlugt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
